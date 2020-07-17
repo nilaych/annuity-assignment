@@ -14,7 +14,7 @@ To run the application, please follow the steps mentioned below -
 * Using a REST client (e.g. Postman), call the service http://localhost:8080/generate-plan with the below sample request as payload:
 ```
 {
-    "loanAmount": "6a",
+    "loanAmount": "5000",
     "nominalRate": "5.0",
     "duration": 24,
     "startDate": "2018-01-01T00:00:01Z"
