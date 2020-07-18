@@ -20,3 +20,4 @@ To run the application, please follow the steps mentioned below -
     "startDate": "2018-01-01T00:00:01Z"
 }
 ```
+* Add the header ```Content-Type = application/json```
